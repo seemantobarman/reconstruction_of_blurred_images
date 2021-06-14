@@ -1,1 +1,1 @@
-# reconstruction_of_blurred_images
+# Reconstruction of Blurred Images
